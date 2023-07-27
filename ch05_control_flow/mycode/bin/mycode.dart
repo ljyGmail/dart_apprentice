@@ -1,5 +1,5 @@
 const global = 'Hello, world';
-void main(List<String> arguments) {
+void main() {
   // # Making Comparisons
   // ## Boolean Values
   // const bool yes = true;

@@ -1,0 +1,4 @@
+1. create a folder for every chapter
+2. enter the chapter folder
+3. create a dart project using the following command:
+    dart create {mycode}
